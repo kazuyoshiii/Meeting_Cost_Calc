@@ -14,7 +14,7 @@ Click on the thumbnail image below to jump to the demo video.
 - **Intuitive Interface**: Clean and simple UI that seamlessly integrates with Google Calendar.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/meeting-cost-calculator.git`
+1. Clone the repository: `git clone https://github.com/kazuyoshiii/Meeting_Cost_Calc`
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" and click on "Load unpacked."
 4. Select the cloned repository folder and click "Open."
