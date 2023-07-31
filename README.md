@@ -29,7 +29,4 @@ Click on the thumbnail image below to jump to the demo video.
 If you'd like to contribute to this project, please feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Demo Video
-Coming soon! <!-- Update with the link to the demo video when ready -->
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
