@@ -1,4 +1,4 @@
-# Meeting_Cost_Calc
+# MeetingCostCalc
 
 ## Overview
 Meeting Cost Calculator is a Chrome extension that calculates and displays the cost for each event in Google Calendar. It enables users to set a unit price and then automatically computes the cost based on the number of attendees and the duration of the meeting.
